@@ -1,6 +1,6 @@
 # RabbitMq Tester
 
-Rabbit Mq ile basit bit asenkron akış oluşturduk.
+Rabbit Mq ile basit bir asenkron akış oluşturduk.
 
 ### Kurulum için gerekenler
 
