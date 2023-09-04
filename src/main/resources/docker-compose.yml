@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  rabbitmqtester:
+    image: rabbitmq
+    ports:
+      - 5672:5672
+    environment:
+      RABBITMQ_DEFAULT_USER: "abdullah"
+      RABBITMQ_DEFAULT_PASS: "abdullah123"
